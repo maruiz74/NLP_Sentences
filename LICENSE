@@ -1,0 +1,14 @@
+Copyright © 2025 Miguel Ángel Ruiz Núñez
+
+Este notebook está licenciado bajo la Licencia Creative Commons Atribución – Sin obras derivadas 4.0 Internacional (CC BY-ND 4.0).
+
+Puedes compartirlo, enlazarlo y ejecutarlo públicamente (por ejemplo, desde LinkedIn o Binder) con fines educativos o informativos, siempre que:
+
+- Me atribuyas como el autor original (Miguel Ángel)
+- No lo modifiques, traduzcas ni crees versiones derivadas
+- No elimines mi nombre del código ni del notebook
+- No me hagas responsable de ningún uso indebido, errores o consecuencias derivadas de su ejecución
+
+Este trabajo se basa en un enfoque conocido del análisis sintáctico con la librería spaCy, pero ha sido adaptado, estructurado y documentado por mí para fines educativos y demostrativos.
+
+Licencia completa: https://creativecommons.org/licenses/by-nd/4.0/
